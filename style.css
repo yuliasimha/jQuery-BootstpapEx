@@ -1,0 +1,31 @@
+/* Styles go here */
+
+*{
+  box-sizing: border-box;
+}
+
+.card-body img{
+  height: 300px;
+}
+
+.navbar-brand , h1{
+  font-family: 'Indie Flower', cursive;
+}
+
+.card{
+  background-color: LightGray;
+}
+
+.carousel-item img{
+  height: 400px;
+  width: 100%;
+}
+
+.row{
+  margin-bottom: 10px;
+}
+
+#carouselId{
+  max-width: 700px;
+  margin: 0 auto;
+}
